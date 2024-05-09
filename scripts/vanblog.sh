@@ -12,10 +12,10 @@ VANBLOG_DATA_PATH="${VANBLOG_BASE_PATH}/data"
 VANBLOG_DATA_PATH_RAW="\/var\/vanblog\/data"
 VANBLOG_SCRIPT_VERSION="v0.3.1"
 
-COMPOSE_URL="https://vanblog.mereith.com/docker-compose-template.yml"
-SCRIPT_URL="https://vanblog.mereith.com/vanblog.sh"
+COMPOSE_URL="https://github.com/DJChanahCJD/vanblog/blob/DJChanahCJD-patch-1/docker-compose/docker-compose-template.yml"
+SCRIPT_URL="https://github.com/DJChanahCJD/vanblog/blob/DJChanahCJD-patch-1/scripts/vanblog.sh"
 GITHUB_URL="dn-dao-github-mirror.daocloud.io"
-Get_Docker_URL="vanblog.mereith.com/docker.sh"
+Get_Docker_URL="https://github.com/DJChanahCJD/vanblog/blob/DJChanahCJD-patch-1/docs/.vuepress/public/docker.sh"
 Get_Docker_Argu=" -s docker --mirror Aliyun"
 
 red='\033[0;31m'
