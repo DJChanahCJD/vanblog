@@ -55,7 +55,7 @@ const Login = () => {
           className={styles.loginForm}
           logo={<img alt="logo" src="/logo.svg" />}
           title="VanBlog"
-          subTitle={'VanBlog 博客管理后台'}
+          subTitle={'HaoBlog 博客管理后台！！！！'}
           initialValues={{
             autoLogin: true,
           }}
