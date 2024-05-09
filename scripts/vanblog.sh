@@ -13,7 +13,7 @@ VANBLOG_DATA_PATH_RAW="\/var\/vanblog\/data"
 VANBLOG_SCRIPT_VERSION="v0.3.1"
 
 COMPOSE_URL="https://vanblog.mereith.com/docker-compose-template.yml"
-SCRIPT_URL="https://vanblog.mereith.com/vanblog.sh"
+SCRIPT_URL="https://github.com/DJChanahCJD/vanblog/edit/master/docs/.vuepress/public/vanblog.sh"
 GITHUB_URL="dn-dao-github-mirror.daocloud.io"
 Get_Docker_URL="vanblog.mereith.com/docker.sh"
 Get_Docker_Argu=" -s docker --mirror Aliyun"
